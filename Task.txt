@@ -1,9 +1,9 @@
 
 
 1 User Login/Reg - Santhosh
-2 Cart -  Berlin 
+2 Cart -   Rahul
 3 Dashboard - Lokesh 
-4 Payment - Rahul  
+4 Payment - Berlin  
 5 Feedback - Sangeetha
 6 Filters, offers, category - Rizvi 
 7 Order Summary - Sarnika 
